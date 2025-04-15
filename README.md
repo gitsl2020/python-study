@@ -1,2 +1,3 @@
-# STUDY
-**可以说些什么**
+## PYTHON-STUDY
+today is maril 15 in 2025.
+i have decided 
